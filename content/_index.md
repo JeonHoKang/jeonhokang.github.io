@@ -37,6 +37,7 @@ sections:
     content: 
       text: |-
         ## News
+        - **May 2026**: Joined **Amazon** as an **Applied Scientist II Intern**!
         - **April 2025**: Now our paper, code and dataset can be accessed via [Arxiv](https://arxiv.org/abs/2503.03998), [Papers with code](https://cs.paperswithcode.com/paper/robotic-compliant-object-prying-using), and [Hugging Face](https://huggingface.co/datasets/Jeon-hk/Battery_Prying_Dataset/blob/main/README.md) !
         - **March 2025**: Looking forward to interning at **Honda Resarch Institute** this summer as Resesarch Scientist Intern working on **Behavior Models for Dexterous Manipulation**!
         - **March 2025**: Our paper on Compliant Object prying has been accepted on Robotics and Automation Letters!
