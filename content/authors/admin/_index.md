@@ -77,6 +77,20 @@ education:
     institution: University of Southern California
 
 work:
+  - position: Vulcan Stow Behaviors Team
+    company_name: Amazon Robotics
+    company_url: 'https://www.amazonrobotics.com/'
+    logo: amazon-robotics.svg
+
+  - position: Fauna Manipulation Team
+    company_name: Amazon
+    company_url: 'https://www.amazon.com/'
+    logo: amazon.svg
+    date_start: 2026-05-01
+    date_end: 2026-08-01
+    summary: |-
+      VLA post-training using reinforcement learning (RL).
+
   - position:  Research Scientist Intern
     company_name: Honda Research Institute
     company_url: 'https://usa.honda-ri.com'

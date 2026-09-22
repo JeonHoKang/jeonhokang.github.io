@@ -48,7 +48,7 @@
                         <!-- Logo -->
                         {{ with .logo }}
                         <div class="flex-shrink-0">
-                          <img src="/media/experience/{{ . }}" alt="{{ $.company_name }} logo" class="object-contain rounded-md" style="width: 92px; height: 92px;" loading="lazy">
+                          <img src="/media/experience/{{ . }}" alt="{{ $key.company_name }} logo" class="object-contain rounded-md" style="width: 92px; height: 92px;" loading="lazy">
                         </div>
                         {{ end }}
                   
@@ -56,18 +56,20 @@
                         <div class="flex flex-col flex-1">
                           <h3 class="text-lg font-semibold">{{ .position }}</h3>
                           <p class="text-primary-400 font-medium">{{ .company_name }}</p>
+                          {{ if or .date_start .date_end .location }}
                           <p class="text-sm text-gray-400 mt-1">
                             {{ if .date_start }}
                               {{ (time .date_start) | time.Format "Jan 2006" }} –
                             {{ end }}
                             {{ if .date_end }}
                               {{ (time .date_end) | time.Format "Jan 2006" }}
-                            {{ else }}
+                            {{ else if .date_start }}
                               {{ i18n "present" | default "Present" }}
                             {{ end }}
                             {{ with .location }} · {{ . }}{{ end }}
                           </p>
-                          <p class="mt-2  text-sm text-gray-300">{{ .summary | $page.RenderString }}</p>
+                          {{ end }}
+                          {{ with .summary }}<p class="mt-2  text-sm text-gray-300">{{ . | $page.RenderString }}</p>{{ end }}
 
                       </div>
                     </div>
