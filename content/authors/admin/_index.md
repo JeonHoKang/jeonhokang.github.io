@@ -212,10 +212,8 @@ awards:
 
 ---
 
-I am a Ph.D. student in Robotics at the University of California, fortunate to be advised by [Professor S.K. Gupta](https://sites.usc.edu/skgupta/). I am a member of the [RROS Lab](https://sites.usc.edu/rros/), where we focus on smart manufacturing systems and skill learning for complex manufacturing tasks.
+I am a Ph.D. student in Robotics at the University of Southern California, fortunate to be advised by [Professor S.K. Gupta](https://sites.usc.edu/skgupta/). I plan to graduate in December 2026. I am a member of the [RROS Lab](https://sites.usc.edu/rros/), where we focus on robot learning for contact-rich manipulation.
 
-My research centers on leveraging probabilistic models and deep learning to enable multi-sensory perception and manipulation skills, with the goal of enhancing flexibility and adaptability in robot learning. I am particularly interested in developing intelligent ways to integrate diverse sensory feedback — including force, tactile inputs, and language — into robotic systems.
+My work also spans VLA post-training at Amazon Fauna and real2sim2real at Amazon Robotics for general robotic intelligence. I am particularly interested in developing multimodal learning frameworks that integrate force, tactile inputs, and language.
 
-I have authored three first-author publications, including papers in ICRA and RA-L, with one currently under review for CASE 2025. Additionally, I have contributed to three ASME conference papers (MSEC and IDETC), with our MSEC 2024 paper receiving the Best Conference Paper Award (2nd place). I have also served as a reviewer for multiple conferences, including ICRA 2025, IROS 2025, and CASE 2025.
-
-
+I have authored three first-author publications, including papers in IEEE ICRA, RA-L, and CASE. Additionally, I have contributed to three ASME conference papers (MSEC and IDETC), with our MSEC 2024 paper receiving the Best Conference Paper Award (2nd place). I have also served as a reviewer for conferences and journals including ICRA, RA-L, IROS, CASE, and Humanoids.
