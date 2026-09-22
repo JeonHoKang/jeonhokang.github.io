@@ -37,6 +37,7 @@ sections:
     content: 
       text: |-
         ## News
+        - **September 2026**: Our paper titled **[Vision-Language Grounded Task-Context-Aware Imitation Learning for Robotic Disassembly](https://arxiv.org/abs/2609.17714)** has been accepted to **IEEE Robotics and Automation Letters (RA-L)**!
         - **May 2026**: Joined **Amazon** as an **Applied Scientist II Intern**!
         - **April 2025**: Now our paper, code and dataset can be accessed via [Arxiv](https://arxiv.org/abs/2503.03998), [Papers with code](https://cs.paperswithcode.com/paper/robotic-compliant-object-prying-using), and [Hugging Face](https://huggingface.co/datasets/Jeon-hk/Battery_Prying_Dataset/blob/main/README.md) !
         - **March 2025**: Looking forward to interning at **Honda Resarch Institute** this summer as Resesarch Scientist Intern working on **Behavior Models for Dexterous Manipulation**!
