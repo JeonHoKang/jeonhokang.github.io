@@ -77,14 +77,14 @@ education:
     institution: University of Southern California
 
 work:
-  - position: Vulcan Stow Behaviors Team
-    company_name: Amazon Robotics
+  - position: Applied Scientist II Intern
+    company_name: Amazon Robotics - Vulcan Stow Behaviors Team
     company_url: 'https://www.amazonrobotics.com/'
     logo: amazon-robotics.svg
     date_start: 2026-08-01
 
-  - position: Fauna Manipulation Team
-    company_name: Amazon
+  - position: Applied Scientist II Intern
+    company_name: Amazon - Fauna Team (Humanoids)
     company_url: 'https://www.amazon.com/'
     logo: amazon.svg
     date_start: 2026-05-01
