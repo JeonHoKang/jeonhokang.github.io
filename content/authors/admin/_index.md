@@ -81,6 +81,7 @@ work:
     company_name: Amazon Robotics
     company_url: 'https://www.amazonrobotics.com/'
     logo: amazon-robotics.svg
+    date_start: 2026-08-01
 
   - position: Fauna Manipulation Team
     company_name: Amazon
